@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reynaldi15/reactlearn/static/css/main.403d0cfd.chunk.css",
+    "main.js": "/reynaldi15/reactlearn/static/js/main.8f002f4a.chunk.js",
+    "main.js.map": "/reynaldi15/reactlearn/static/js/main.8f002f4a.chunk.js.map",
+    "runtime-main.js": "/reynaldi15/reactlearn/static/js/runtime-main.ccce41e9.js",
+    "runtime-main.js.map": "/reynaldi15/reactlearn/static/js/runtime-main.ccce41e9.js.map",
+    "static/js/2.2d3ecd27.chunk.js": "/reynaldi15/reactlearn/static/js/2.2d3ecd27.chunk.js",
+    "static/js/2.2d3ecd27.chunk.js.map": "/reynaldi15/reactlearn/static/js/2.2d3ecd27.chunk.js.map",
+    "index.html": "/reynaldi15/reactlearn/index.html",
+    "static/css/main.403d0cfd.chunk.css.map": "/reynaldi15/reactlearn/static/css/main.403d0cfd.chunk.css.map",
+    "static/js/2.2d3ecd27.chunk.js.LICENSE.txt": "/reynaldi15/reactlearn/static/js/2.2d3ecd27.chunk.js.LICENSE.txt",
+    "static/media/minus-icon.e6e703ff.svg": "/reynaldi15/reactlearn/static/media/minus-icon.e6e703ff.svg",
+    "static/media/plus-icon.1b353b20.svg": "/reynaldi15/reactlearn/static/media/plus-icon.1b353b20.svg",
+    "static/media/shopping-icon.7f4eb869.svg": "/reynaldi15/reactlearn/static/media/shopping-icon.7f4eb869.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccce41e9.js",
+    "static/js/2.2d3ecd27.chunk.js",
+    "static/css/main.403d0cfd.chunk.css",
+    "static/js/main.8f002f4a.chunk.js"
+  ]
+}
